@@ -16,9 +16,9 @@ With hands-on experience in modern web technologies, I constantly explore new fr
 
 - 👨‍💻 Check out my projects at [My Portfolio](https://jareer-portfolio.vercel.app/)
   
-- 🤝 Open to collaborating on web and app development projects!
-
 - 🌱 I’m currently learning **Databases (NoSQL & SQL)**
+  
+- 🤝 Open to collaborating on web and app development projects!
 
 <br>
 
