@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Muhammad Jareer</h1>
-<h3 align="center">🌟 Passionate Frontend Developer | Turning Ideas Into Impactful Digital Experiences 🌟</h2>
+<h3 align="center">🌟 Full Stack Developer | Turning Ideas Into Impactful Digital Experiences 🌟</h2>
 
 
 <br>
@@ -14,9 +14,9 @@ With hands-on experience in modern web technologies, I constantly explore new fr
 
 - 💬 Ask me about **JavaScript, React JS**
 
-- 👨‍💻 Check out my projects at [My Portfolio](https://muhammadjareer.vercel.app/)
+- 👨‍💻 Check out my projects at [Portfolio](https://muhammadjareer.vercel.app/)
   
-- 🌱 I’m currently learning **Databases (NoSQL & SQL)**
+- 🌱 I’m currently learning **AI**
   
 - 🤝 Open to collaborating on web and app development projects!
 
