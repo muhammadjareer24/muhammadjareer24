@@ -6,19 +6,30 @@
 
 ## 🙋‍♂️ About Me:
 
-<p>I am a Computer Science student at Karachi University with a strong passion for web and app development. I enjoy creating responsive, user-centric, and efficient web applications, focusing on both design and functionality.
+<p>I’m a Full Stack Developer from Pakistan who enjoys building things that live on the web.
+  
+  I create modern web applications with Next.js, React, Node.js and Express - focusing on clean design, performance, scalibility and usability.
 
-With hands-on experience in modern web technologies, I constantly explore new frameworks, tools, and trends to enhance my development skills.</p>
+  I really love turning ideas into responsive, user-friendly products and continuously growing through real-world projects and collaboration.
+</p>
 
-- 🏫 I’m a Computer Science student at [Karachi University.](https://uok.edu.pk/)
 
-- 💬 Ask me about **JavaScript, React JS**
+- 💬 Ask me about **Next.js & JavaScript**
 
-- 👨‍💻 Check out my projects at [Portfolio](https://muhammadjareer.vercel.app/)
+- 👨‍💻 Check out my projects at https://muhammadjareer.vercel.app/
   
 - 🌱 I’m currently learning **AI**
   
 - 🤝 Open to collaborating on web and app development projects!
+
+<br>
+
+## 🌍 Let's Connect:
+<div align="center">
+    <a href="https://jareer-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
+    <a href="mailto:m.ahmar2496@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
+    <a href="https://linkedin.com/in/muhammadjareer"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
+</div>
 
 <br>
 
@@ -50,7 +61,7 @@ With hands-on experience in modern web technologies, I constantly explore new fr
       <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=black"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <!-- <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a> -->
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -63,20 +74,32 @@ With hands-on experience in modern web technologies, I constantly explore new fr
       
 <br>
 
-## 🎢 GitHub Fun Zone:
+## 🚀 GitHub Fun Zone
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadjareer24&show_icons=true&bg_color=0D1117&title_color=004080&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" height="180px"/></a>
-  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjareer24&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/></a>
-<!--  <a href="#"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjareer24&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" height="180px"/></a> -->
+<div align="center" gap="5px">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadjareer24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
+    height="165" 
+    alt="GitHub Stats" 
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadjareer24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="165" 
+    alt="Top Languages" 
+  />
+
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadjareer24&theme=tokyo-night&bg_color=0D1117&hide_border=true" 
+    width="95%" 
+    alt="GitHub Contribution Graph" 
+  />
 </div>
 
 <br>
 
-## 🌍 Let's Connect:
-<div align="center">
-    <a href="https://jareer-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website"></a>
-    <a href="mailto:m.ahmar2496@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email"></a>
-    <a href="https://linkedin.com/in/muhammadjareer"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn"></a>
-</div>
+
 
