@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Muhammad Jareer</h1>
-<h3 align="center">🌟 Full Stack Developer | Turning Ideas Into Impactful Digital Experiences 🌟</h2>
+<h1 align="center">Hello, I'm Muhammad Jareer</h1>
+<h3 align="center">Full Stack Developer | Turning Ideas Into Impactful Digital Experiences</h2>
 
 
 <br>
