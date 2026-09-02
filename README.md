@@ -71,20 +71,19 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
-      
-<br>
-
-## 🚀 GitHub Fun Zone
+    
+  
+ <!--## 🚀 GitHub Fun Zone
 
 <div align="center" gap="5px">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadjareer24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" 
     height="165" 
     alt="GitHub Stats" 
   />
 
-  <!-- Top Languages -->
+  <!-- Top Languages 
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadjareer24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" 
     height="165" 
@@ -92,11 +91,11 @@
   />
 
   <!-- Contribution Graph -->
-  <img 
+  <!-- <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadjareer24&theme=tokyo-night&bg_color=0D1117&hide_border=true" 
     width="95%" 
     alt="GitHub Contribution Graph" 
-  />
+  /> -->
 </div>
 
 <br>
