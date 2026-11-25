@@ -9,15 +9,11 @@ Full stack developer from Karachi, Pakistan. I enjoy building web apps with Next
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | :---: |
-| **DevQora** | Developer Q&A platform with search, AI-generated answers, auth, voting, tags and user profiles | Next.js, TypeScript, MongoDB, NextAuth, Tailwind | [Live](https://dev-qora.vercel.app/) · [Code](https://github.com/muhammadjareer24/dev-qora) |
+| **DevQora** | Developer Q&A platform with search, AI-generated answers, auth, voting, tags and user profiles | Next.js, TypeScript, MongoDB, NextAuth, Tailwind | [Live](https://dev-qora.vercel.app/) / [Code](https://github.com/muhammadjareer24/dev-qora) |
 | **Marnex** | Conversion-focused SaaS landing page template for AI tools and agencies, with smooth animations | Next.js, TypeScript, Tailwind, Motion | [Live](https://marnex-saas-template.vercel.app/) |
-| **GlobeRate** | Real-time currency converter using live exchange rates | React, TypeScript, Tailwind | [Live](https://globerate.vercel.app/) · [Code](https://github.com/muhammadjareer24/GlobeRate) |
-| **Stocklist** | Inventory manager to add, edit and delete products | React, TypeScript, Tailwind | [Live](https://stock-list-app.vercel.app/) · [Code](https://github.com/muhammadjareer24/StockList-App) |
-| **GPA Calculator** | GPA tracker built for Karachi University students | React, TypeScript, Tailwind | [Live](https://gpa-calculator-by-jareer.vercel.app/) · [Code](https://github.com/muhammadjareer24/GPA-Calculator) |
-| **Text Analyser** | Word and character counts, reading time and sentence stats | React, TypeScript, Tailwind | [Live](https://text-analyser-jareer.vercel.app/) · [Code](https://github.com/muhammadjareer24/text-analyser) |
-| **Blood Donation Tracker** | Manages donors and donation history, checks eligibility on a 56-day rule | Flask, Python, SQLite | [Code](https://github.com/muhammadjareer24/blood-donation-tracker) |
+| **GlobeRate** | Real-time currency converter using live exchange rates | React, TypeScript, Tailwind | [Live](https://globerate.vercel.app/) / [Code](https://github.com/muhammadjareer24/GlobeRate) |
  
-More small apps and experiments are on my [portfolio](https://muhammadjareer.vercel.app/).
+More projects and work on my [portfolio](https://muhammadjareer.vercel.app/).
 
 ## Stack
 
